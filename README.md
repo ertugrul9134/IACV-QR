@@ -221,5 +221,5 @@ This project focuses on detecting brain tumors from MRI scans using **morphologi
 
 ## Future Work
 - Experiment with more advanced morphological operations.
-- Use transfer learning with pre-trained models (e.g., ResNet, VGG) for better performance.
+- Use transfer learning with pre-trained models (e.g., ResNet, VGG) for better performance.ResNet can quickly train very deep neural network models and, by linking across layers, can prevent the gradient disappearance problem.  weight ve bias değerleri efektif bir şekilde güncellenemiyor ve sırasında yaratması gereken etkiden (optimal olarak düşünürsek) çok daha fazla etki yaratır ve öğrenme süreci verimini yitiriyor.
 - Extend the project to segment tumor regions using U-Net or similar architectures.
